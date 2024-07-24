@@ -174,7 +174,15 @@ canvas.particles-js-canvas-el{
 }
 .nav__logo{
   color: var(--second-color);
+  height: 80px;
+  display: block;
 }
+
+a.nav__logo img {
+  height: 100%;
+}
+
+
 .nav__toggle{
   color: var(--second-color);
   font-size: 1.5rem;

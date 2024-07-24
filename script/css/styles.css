@@ -261,6 +261,10 @@ a.nav__logo img {
 .about__subtitle{
   margin-bottom: var(--mb-2);
 }
+.about__text{
+  text-align: justify;
+
+}
 .about__img{
   justify-self: center;
 }
@@ -279,6 +283,7 @@ a.nav__logo img {
 }
 .skills__text{
   margin-bottom: var(--mb-4);
+  text-align: justify;
 }
 .skills__data{
   display: flex;
@@ -323,6 +328,7 @@ a.nav__logo img {
 }
 .skills__img{
   border-radius: .5rem;
+  height: 500px;
 }
 
 

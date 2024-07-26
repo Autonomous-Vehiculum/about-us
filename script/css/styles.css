@@ -235,9 +235,8 @@ a.nav__logo img {
 }
 .home__img{
   position: absolute;
-  right: 0;
+  right: 15%;
   bottom: 0;
-  width: 295px;
 }
 
 /*BUTTONS*/
@@ -430,7 +429,7 @@ div#footer-ad {
     margin-right: var(--mb-4);
   }
   .home__img{
-    width: 30%;
+    width: 25%;
     bottom: 5%;
   }
 
@@ -461,6 +460,6 @@ div#footer-ad {
     margin-right: auto;
   }
   .home__img{
-    right: 10%;
+    right: 15%;
   }
 }

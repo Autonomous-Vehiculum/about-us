@@ -373,6 +373,10 @@ a.nav__logo img {
   margin: 0 var(--mb-2)
 }
 
+div#footer-ad {
+  padding-top: 4rem;
+}
+
 /* ===== MEDIA QUERIES=====*/
 @media screen and (min-width: 768px){
   body{
@@ -413,6 +417,7 @@ a.nav__logo img {
   }
   .home__data{
     align-self: center;
+    width: 60%;
   }
   .home__social{
     padding-top: 0;
@@ -425,8 +430,8 @@ a.nav__logo img {
     margin-right: var(--mb-4);
   }
   .home__img{
-    width: 457px;
-    bottom: 15%;
+    width: 30%;
+    bottom: 5%;
   }
 
   .about__container, .skills__container{

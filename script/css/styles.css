@@ -236,7 +236,7 @@ a.nav__logo img {
 .home__img{
   position: absolute;
   right: 15%;
-  bottom: 0;
+  top: 15%;
 }
 
 /*BUTTONS*/
@@ -430,7 +430,6 @@ div#footer-ad {
   }
   .home__img{
     width: 25%;
-    bottom: 5%;
   }
 
   .about__container, .skills__container{

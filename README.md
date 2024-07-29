@@ -32,6 +32,9 @@ We envision a world where transportation is seamless, accessible, and sustainabl
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=fff)
 ![Particle.js](https://img.shields.io/badge/Particle.js-2.0-E34F26?logoColor=fff)
 
+## Live Demo
+View the live site [here](https://autonomous-vehiculum.github.io/about-us/)
+
 ## Contact
 
 For more information, please reach out to us:
